@@ -7,7 +7,7 @@ Fullstack Web and Mobile developer
 I love Building technologies that will ease humans the stress to perform a specific operation
 
 * 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [mremmalex2@gmail.com](mailto:mremmalex2@gmail.com)
+* ✉️  You can contact me at [ifeanyichukwudev@gmail.com](mailto:ifeanyichukwudev@gmail.com)
 * 🧠  I'm learning Swift UI
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm your friendly naighborhood hero, keep it a secret
