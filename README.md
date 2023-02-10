@@ -8,9 +8,9 @@ I love Building technologies that will ease humans the stress to perform a speci
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [ifeanyichukwudev@gmail.com](mailto:ifeanyichukwudev@gmail.com)
-* 🧠  I'm learning Swift UI
+* 🧠  Learning Swift UI
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I'm your friendly naighborhood hero, keep it a secret
+* ⚡   Your friendly naighborhood hero, keep it a secret
 
 <a href="https://www.github.com/Mremmalex" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Mremmalex?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
