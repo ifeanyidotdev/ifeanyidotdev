@@ -53,7 +53,3 @@ src="https://img.shields.io/github/followers/Mremmalex?logo=github&style=for-the
 <a href="http://www.github.com/Mremmalex"><img src="https://github-readme-stats.vercel.app/api?username=Mremmalex&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="Mremmalex's GitHub stats" /></a>
 
 <a href="https://github.com/Mremmalex" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mremmalex&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/mremmalex"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
