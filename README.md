@@ -6,7 +6,7 @@ Fullstack Web and Mobile developer
 
 I love Building technologies that will ease humans the stress to perform a specific operation
 
-* 🌍  I'm based in Nigeria
+* 🌍  I'm based in Universe
 * ✉️  You can contact me at [ifeanyichukwudev@gmail.com](mailto:ifeanyichukwudev@gmail.com)
 * 🧠  Learning Swift UI
 * 🤝  I'm open to collaborating on interesting projects
@@ -47,7 +47,3 @@ src="https://img.shields.io/github/followers/Mremmalex?logo=github&style=for-the
 
 
 ### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/ifeanyidotdev"><img src="https://github-readme-stats.vercel.app/api?username=ifeanyidotdev&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="Ifeanyi's GitHub stats" /></a>
